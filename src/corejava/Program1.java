@@ -1,3 +1,5 @@
+package corejava;
+
 public class Program1 {
     public static void main(String []args){
         System.out.println("hello!");
@@ -6,7 +8,7 @@ public class Program1 {
         System.out.println(10+"java0"+10+'A');
         System.out.println("Java" + 10 + 'A' + 20.5 + true);
         System.out.println(10 + 20 + "Code" + 'B' + 30.5f);
-        System.out.println('A' + 5 + 15.5 + "Hello" + false);
+        System.out.println('A' + 5 + 15.5 + "corejava.Hello" + false);
         System.out.println((byte)10 + (short)20 + 30 + "Data" + 'C');
         System.out.println(100L + 20.5f + "Java" + 50 + true);
         System.out.println("Result" + 99.99 + 'D' + 500L + false);
