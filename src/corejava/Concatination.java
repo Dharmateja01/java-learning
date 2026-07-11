@@ -1,6 +1,6 @@
 package corejava;
 
-public class Program1 {
+public class Concatination {
     public static void main(String []args){
         System.out.println("hello!");
         System.out.println('h'+10);
