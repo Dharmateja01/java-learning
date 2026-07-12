@@ -12,5 +12,8 @@ public class Typecasting {
         float f=5.7f;
         int i=(int)f;
         System.out.println(i);
+        byte c=100;
+        int result=b*c;// type promotion
+        System.out.println(result);
     }
 }
