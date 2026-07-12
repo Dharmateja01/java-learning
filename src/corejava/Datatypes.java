@@ -5,7 +5,7 @@ public class Datatypes{
         byte b=127;
         short sh=50;
         int a=10;
-        long l=15_00_00_000l;//we can use underscore to differentiate zeros for counting
+        long l=15_00_00_000L;//we can use underscore to differentiate zeros for counting
         char c='A';
         float f=5.67f;
         double d=23.4578;
