@@ -10,6 +10,7 @@ public class Operators {
         int c=++a + b++ / a++ * --b;
         int d=++b + a++ * a++ / --a;
         int e=--c - --d +--a - --b % ++d * ++c;
+        // (/)=quotient and (%)=remainder
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
