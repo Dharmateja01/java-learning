@@ -1,6 +1,6 @@
 package corejava;
 
-public class Terminaryoperators {
+public class Ternaryoperators {
     public static void main(String[] args) {
         int a=61;
         int b=15;
