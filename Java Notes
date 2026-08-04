@@ -1,0 +1,5 @@
+Exception Handling in Java
+comes under oops
+types-throwable, checked, unchecked
+checked exceptions are checked at compile time,
+while unchecked exceptions are checked at runtime.
