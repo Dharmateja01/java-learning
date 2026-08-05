@@ -1,4 +1,4 @@
-package oops.EmployeeProjectEg;
+package oops.HeirarchialInheritEg;
 
 public class EmployeeDetails {
     int empId;

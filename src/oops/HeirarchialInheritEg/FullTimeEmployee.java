@@ -1,4 +1,4 @@
-package oops.EmployeeProjectEg;
+package oops.HeirarchialInheritEg;
 
 public class FullTimeEmployee extends EmployeeDetails {
     double salary;

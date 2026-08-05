@@ -1,4 +1,4 @@
-package oops.EmployeeProjectEg;
+package oops.HeirarchialInheritEg;
 
 public class PartTimeEmployee extends EmployeeDetails {
     int WorkingHours;
