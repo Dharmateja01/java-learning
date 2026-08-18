@@ -4,9 +4,12 @@ import java.util.Scanner;
 public class Multiplecatch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number: ");
-        int n = sc.nextInt();
+//        System.out.println("Enter a number: ");
+//        int n = sc.nextInt();
         try {
+//            System.out.println("Enter a number: ");
+            int n=10;
+//            int n = sc.nextInt();
             System.out.println(n / 0);
 
             int arr[] ={1, 2, 3, 4, 5};
@@ -15,8 +18,8 @@ public class Multiplecatch {
             String str = null;
             System.out.println(str.length());
 
-            String str1 = "++91-63006-38631";
-            int num = Integer.parseInt(str1);
+            String str1 = "+91-6300638631";
+            long num = Integer.parseInt(str1);
             System.out.println(num);
         }
         catch (ArithmeticException e) {
