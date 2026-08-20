@@ -13,5 +13,4 @@ public class CustomTestRun extends CustonExceptionRuntime{
         CustomTestRun cr=new CustomTestRun();
         cr.test(17);
     }
-
 }
