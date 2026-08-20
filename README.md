@@ -128,7 +128,7 @@ src
 | Core Java | 🟢 |
 | OOP | 🟢 |
 | Collections | ⏳ |
-| Exception Handling | ⏳ |
+| Exception Handling | 🟢 |
 | Multithreading | ⏳ |
 | JDBC | ⏳ |
 | Hibernate | ⏳ |
