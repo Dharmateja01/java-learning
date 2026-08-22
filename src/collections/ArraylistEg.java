@@ -1,5 +1,5 @@
 package collections;
-import java.util.ArrayList;
+import java.util.*;
 
 public class ArraylistEg {
     public static void main(String[] args) {
@@ -17,5 +17,10 @@ public class ArraylistEg {
         System.out.println(numbers);
         System.out.println(numbers.size());
         System.out.println(numbers.contains(30));
+        try {
+            System.out.println(numbers.get(4));
+        } catch (Exception e) {
+            throw new RuntimeException(e.getMessage());
+        }
     }
 }
