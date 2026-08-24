@@ -124,12 +124,12 @@ src
 ## 📈 Progress
 
 | Module | Status |
-|---------|--------|
+|---------|-------|
 | Core Java | 🟢 |
 | OOP | 🟢 |
 | Collections | ⏳ |
 | Exception Handling | 🟢 |
-| Multithreading | ⏳ |
+| Multithreading | 🟢 |
 | JDBC | ⏳ |
 | Hibernate | ⏳ |
 | Spring Boot | ⏳ |
