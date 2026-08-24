@@ -1,6 +1,6 @@
 package DSA;
 
-public class TimeComplexity_O_of_N {
+public class Linear_time_O_of_n {
     public static void main(String[] args) {
         int sum=0;
         for(int i=0;i<=5;i++){
