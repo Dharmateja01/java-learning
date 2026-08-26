@@ -8,6 +8,9 @@ public class ArraylistEg {
         numbers.add(10);
         numbers.add(20);
         numbers.add(30);
+        numbers.add(40);
+        numbers.add(50);
+        numbers.add(3,80);
 
         System.out.println(numbers);
         System.out.println(numbers.get(1));
