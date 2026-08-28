@@ -1,4 +1,4 @@
-package corejava;
+package Strings;
 
 public class StringsEg {
     public static void main(String[] args) {
